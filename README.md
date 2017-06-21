@@ -19,4 +19,4 @@ CSS used:
 - The pipe is pure CSS styling on divs
 - The 3d objects and animations are all CSS properties
 
-<a href="https://www.youtube.com/watch?v=HCT3lgyyQTM">YouTube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HCT3lgyyQTM?ecver=1" frameborder="0" allowfullscreen></iframe>
